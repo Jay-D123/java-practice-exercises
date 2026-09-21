@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayPractice",
+      "request": "launch",
+      "mainClass": "ArrayPractice",
+      "projectName": "JAVA Activities_16d1bb13"
+    },
+    {
+      "type": "java",
       "name": "LargestNumberFinder",
       "request": "launch",
       "mainClass": "LargestNumberFinder",
