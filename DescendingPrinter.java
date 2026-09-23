@@ -10,8 +10,8 @@ public class DescendingPrinter{
 
     for(int count = num; count >= 1; count--){
       System.out.println(count);
-
-      input.close();
     }
+    input.close();
+    System.out.println("Loop Complete!");
   }
 }
