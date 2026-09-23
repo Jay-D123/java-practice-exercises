@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WhileDescendingPrinter",
+      "request": "launch",
+      "mainClass": "WhileDescendingPrinter",
+      "projectName": "JAVA Activities_16d1bb13"
+    },
+    {
+      "type": "java",
+      "name": "WhileLoopCounter",
+      "request": "launch",
+      "mainClass": "WhileLoopCounter",
+      "projectName": "JAVA Activities_16d1bb13"
+    },
+    {
+      "type": "java",
       "name": "ArrayPractice",
       "request": "launch",
       "mainClass": "ArrayPractice",
